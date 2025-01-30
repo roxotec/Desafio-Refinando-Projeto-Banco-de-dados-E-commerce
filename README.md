@@ -12,6 +12,7 @@
 
 3 - Criado uma entidade Entrega e dentro dessa entrga foram criadas os atributos; Status, código de rastreio que foi atrelada ao pedido. 
 
+
 ![Refinando Banco de dados E-commerce](https://github.com/user-attachments/assets/56319cfe-7e8b-4949-8e55-92fffaf4144c)
 
 
