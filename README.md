@@ -1,5 +1,7 @@
 # Desafio-Refinando-Projeto-Banco-de-dados-E-commerce
 
+
+
 // Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 
 1 - Foi criado dentro da entidade Cliente, atributo PJ.
@@ -12,9 +14,10 @@
 
 3 - Criado uma entidade Entrega e dentro dessa entrga foram criadas os atributos; Status, código de rastreio que foi atrelada ao pedido. 
 
-
+## Modelagem de dados feitas para Banco de dados E-commerce
 ![Refinando Banco de dados E-commerce](https://github.com/user-attachments/assets/56319cfe-7e8b-4949-8e55-92fffaf4144c)
 
 
-
+### Tecnologia Usada para o Desafio:
+![image](https://github.com/user-attachments/assets/defad5f4-a698-4ade-9d38-869869d2c7a0)
 
